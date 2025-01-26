@@ -1,0 +1,15 @@
+{
+  "name": "nodejspractice",
+  "version": "1.0.0",
+  "description": "PracticeFormMidTermExam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dabhi Rajdeepsinh",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "validator": "^13.12.0"
+  }
+}
